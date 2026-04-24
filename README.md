@@ -20,6 +20,7 @@ Sou natural de Vila Pavão, ES, e atualmente sou estudante de Ciência da Comput
 Aqui estão algumas das linguagens, frameworks e ferramentas com as quais tenho experiência e gosto de trabalhar:
 
 **Linguagens & Frameworks:**
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -29,10 +30,10 @@ Aqui estão algumas das linguagens, frameworks e ferramentas com as quais tenho 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 **Banco de Dados & Ferramentas:**
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 
 ### 📊 Minhas Estatísticas no GitHub

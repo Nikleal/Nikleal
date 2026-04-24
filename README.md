@@ -1,8 +1,8 @@
-# Olá! 👋 Eu sou o Nícolas Leal Espindula
+# Olá! 👋 Sou Nícolas Leal Espindula
 
 ### Estudante de Ciência da Computação | Desenvolvedor Full-Stack
 
-Sou natural de Vila Pavão, ES, e atualmente sou estudante de Ciência da Computação na UFES (campus São Mateus). Sou apaixonado por tecnologia e atuo como desenvolvedor na **Adapti**, buscando sempre evoluir na criação de soluções e aplicações completas. 
+Sou natural de Vila Pavão, ES, e atualmente sou estudante de Ciência da Computação na UFES (campus São Mateus). Sou apaixonado por tecnologia e atualmento estou como trainee na **Adapti**, buscando sempre evoluir na criação de soluções e aplicações completas. 
 
 ---
 
@@ -11,8 +11,7 @@ Sou natural de Vila Pavão, ES, e atualmente sou estudante de Ciência da Comput
 - 🎓 Graduando em **Ciência da Computação** pela Universidade Federal do Espírito Santo (UFES).
 - 🚀 Desenvolvedor membro da **Adapti**.
 - 💻 Focado no ecossistema de desenvolvimento Full-Stack, com experiência na construção de sistemas e plataformas e-commerce.
-- 🐧 Usuário diário de Linux (Ubuntu) para desenvolvimento.
-- 🎲 Quando não estou programando, gosto de jogar (*Elden Ring*, *Valheim*, *Don't Starve Together*), ler boas webnovels/manhwas e fazer edições de vídeo/imagem.
+- 🎲 Quando não estou programando, gosto de jogar (*Elden Ring*, *Valheim*, *Don't Starve Together*), além disso sou um surfista amador e gosto de praticar diversos tipos de esportes.
 
 ---
 
@@ -39,8 +38,12 @@ Aqui estão algumas das linguagens, frameworks e ferramentas com as quais tenho 
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikleal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikleal&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikleal&theme=dracula" alt="Resumo do Perfil Nícolas Leal" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikleal&theme=dracula" alt="Linguagens mais utilizadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikleal&theme=dracula" alt="Estatísticas Gerais" />
 </div>
 
 ---
@@ -49,6 +52,3 @@ Aqui estão algumas das linguagens, frameworks e ferramentas com as quais tenho 
 
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> - <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> ```
 
-**Dicas adicionais antes de salvar:**
-1. No final do código, na seção "Como me encontrar", você pode transformar as imagens (badges) do LinkedIn e Gmail em links clicáveis, envolvendo a tag da imagem em colchetes e colocando o link logo após, entre parênteses. 
-2. Você pode visualizar como ficará clicando na aba **Preview** (Visualização) lá mesmo no GitHub antes de fazer o *Commit*.

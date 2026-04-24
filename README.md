@@ -9,7 +9,7 @@ Sou natural de Vila Pavão, ES, e atualmente sou estudante de Ciência da Comput
 ### 👨‍💻 Sobre mim
 
 - 🎓 Graduando em **Ciência da Computação** pela Universidade Federal do Espírito Santo (UFES).
-- 🚀 Desenvolvedor membro da **Adapti**.
+- 🚀 Desenvolvedor membro(Trainee) da **Adapti**.
 - 💻 Focado no ecossistema de desenvolvimento Full-Stack, com experiência na construção de sistemas e plataformas e-commerce.
 - 🎲 Quando não estou programando, gosto de jogar (*Elden Ring*, *Valheim*, *Don't Starve Together*), além disso sou um surfista amador e gosto de praticar diversos tipos de esportes.
 

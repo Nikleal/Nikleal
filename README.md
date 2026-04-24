@@ -39,7 +39,7 @@ Aqui estão algumas das linguagens, frameworks e ferramentas com as quais tenho 
 
   ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikleal&theme=github_dark)
   ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikleal&theme=github_dark)
-  ![Summary Card](github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikleal&theme=github_dark)
+  ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikleal&theme=github_dark)
 
 ---
 

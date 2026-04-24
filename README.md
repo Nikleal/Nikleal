@@ -1,4 +1,4 @@
-# Olá! 👋 Sou Nícolas Leal Espindula
+# Olá! Sou Nícolas Leal Espindula
 
 ### Estudante de Ciência da Computação | Desenvolvedor Full-Stack
 
@@ -42,8 +42,3 @@ Aqui estão algumas das linguagens, frameworks e ferramentas com as quais tenho 
   ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikleal&theme=github_dark)
 
 ---
-
-### 📫 Como me encontrar
-
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> - <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> ```
-

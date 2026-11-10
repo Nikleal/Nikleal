@@ -2,7 +2,7 @@
 
 ### Estudante de Ciência da Computação | Desenvolvedor Full-Stack
 
-Sou natural de Vila Pavão, ES, e atualmente sou estudante de Ciência da Computação na UFES (campus São Mateus). Atualmento estou como trainee na **Adapti**, buscando sempre evoluir na criação de soluções e aplicações completas. 
+Sou natural de Vila Pavão, ES, e atualmente sou estudante de Ciência da Computação na UFES (campus São Mateus). Atualmento estou como assessor na **Adapti**, buscando sempre evoluir na criação de soluções e aplicações completas. 
 
 ---
 
